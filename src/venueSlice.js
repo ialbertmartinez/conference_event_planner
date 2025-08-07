@@ -5,31 +5,31 @@ export const venueSlice = createSlice({
   name: "venue",
   initialState: [
     {
-      img: "../public/conference_seating.jpeg",
+      img: "https://github.com/ialbertmartinez/conference_event_planner/blob/91eb5ea828a346cfedda027841d53ccb3926b6c7/public/conference_seating.jpeg",
       name: "Conference Room (Capacity:15)",
       cost: 3500,
       quantity: 0,
     },
     {
-      img: "../public/auditorium_seating.jpg",
+      img: "https://github.com/ialbertmartinez/conference_event_planner/blob/91eb5ea828a346cfedda027841d53ccb3926b6c7/public/auditorium_seating.jpg",
       name: "Auditorium Hall (Capacity:200)",
       cost: 5500,
       quantity: 0,
     },
     {
-      img: "../public/presentation_seating.jpg",
+      img: "https://github.com/ialbertmartinez/conference_event_planner/blob/91eb5ea828a346cfedda027841d53ccb3926b6c7/public/presentation_seating.jpg",
       name: "Presentation Room (Capacity:50)",
       cost: 700,
       quantity: 0,
     },
     {
-      img: "../public/large_meeting.jpg",
+      img: "https://github.com/ialbertmartinez/conference_event_planner/blob/91eb5ea828a346cfedda027841d53ccb3926b6c7/public/large_meeting.jpg",
       name: "Large Meeting Room (Capacity:10)",
       cost: 900,
       quantity: 0,
     },
     {
-      img: "../public/small_meeting.jpeg",
+      img: "https://github.com/ialbertmartinez/conference_event_planner/blob/91eb5ea828a346cfedda027841d53ccb3926b6c7/public/small_meeting.jpeg",
       name: "Small Meeting Room (Capacity:5)",
       cost: 1100,
       quantity: 0,
